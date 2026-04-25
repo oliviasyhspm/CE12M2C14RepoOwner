@@ -3,7 +3,7 @@
 Group activity to familiarize with git. Madhu.
 
 # Commands
-1. `git init` - initializes a git repository (madhu says hello)
+1. `git init` - initializes a git repository (madhu says hello) madhu
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
 3. `git diff`
 4. `git add <filename>` 
