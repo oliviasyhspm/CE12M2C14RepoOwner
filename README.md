@@ -1,6 +1,6 @@
 # CE12M2C14RepoOwner
 # Overview
-Group activity to familiarize with git
+Group activity to familiarize with git. Madhu.
 
 # Commands
 1. `git init` - initializes a git repository
